@@ -2,8 +2,6 @@
 This project leverages machine learning to predict the severity (fatal or non-fatal) of agricultural accidents in West Bengal. By analyzing accident data, it aims to identify risk factors, assess trends, and support preventive strategies for improving farmer safety.
 ---
 
-# **Machine Learning-Based Severity Prediction and Risk Assessment of Agricultural Accidents in West Bengal**
-
 **Description**  
 This project utilizes machine learning to predict the severity (fatal or non-fatal) of agricultural accidents among farmers in West Bengal. By analyzing historical accident data, the project identifies key risk factors, trends, and insights to aid in risk assessment and develop preventive strategies for enhancing agricultural safety.
 
