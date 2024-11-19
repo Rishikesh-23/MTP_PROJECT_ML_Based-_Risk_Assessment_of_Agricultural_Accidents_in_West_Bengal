@@ -144,8 +144,8 @@ Severity_Prediction_and_Risk_Assessment/
 ## **Contributors**
 
 - **Rishikesh**  
-  LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)  
-  Email: your_email@example.com  
+- LinkedIn: www.linkedin.com/in/rishikesh-a12090285
+- Email: rishikesh23@kgpian.iitkgp.ac.in  
 ---
 
 ## **License**
