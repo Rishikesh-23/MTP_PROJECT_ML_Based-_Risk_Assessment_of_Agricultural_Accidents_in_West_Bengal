@@ -1,0 +1,1001 @@
+DistrictName,AccidentPlace,Gender,CatDesc,SubCatDesc,EquipmentName,CauseOfAccident,Reason,AccidentType
+Nadia,Farm Road,Male,Thresher,Type C,Thresher Model Z,Overturning,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type B,Thresher Model Z,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type D,Tractor Model X,Falling,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type A,Tractor Model X,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type A,Harvester Model Y,Entanglement,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type D,Harvester Model Y,Overturning,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type B,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Thresher,Type C,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type C,Thresher Model Z,Entanglement,Mechanical Failure,Fatal
+Jalpaiguri,Field,Male,Tractor,Type A,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type B,Thresher Model Z,Overturning,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Male,Thresher,Type B,Thresher Model Z,Falling,Operator Error,Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type A,Thresher Model Z,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type A,Thresher Model Z,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type D,Thresher Model Z,Falling,Operator Error,Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type B,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Female,Tractor,Type C,Thresher Model Z,Collision,Operator Error,Non-Fatal
+Nadia,Field,Male,Tractor,Type C,Tractor Model X,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type C,Thresher Model Z,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type B,Thresher Model Z,Overturning,Mechanical Failure,Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type A,Tractor Model X,Collision,Operator Error,Fatal
+Nadia,Farm Road,Female,Tractor,Type D,Harvester Model Y,Overturning,Operator Error,Non-Fatal
+Nadia,Field,Male,Tractor,Type D,Tractor Model X,Overturning,Operator Error,Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type B,Thresher Model Z,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type C,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Thresher,Type D,Thresher Model Z,Entanglement,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type B,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type A,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type C,Thresher Model Z,Collision,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type C,Tractor Model X,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type A,Harvester Model Y,Collision,Weather Conditions,Fatal
+Nadia,Field,Female,Combine Harvester,Type B,Thresher Model Z,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type A,Thresher Model Z,Overturning,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type B,Harvester Model Y,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type C,Thresher Model Z,Falling,Operator Error,Non-Fatal
+Nadia,Field,Female,Tractor,Type D,Harvester Model Y,Overturning,Operator Error,Non-Fatal
+Nadia,Field,Male,Thresher,Type D,Harvester Model Y,Overturning,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Thresher,Type C,Thresher Model Z,Overturning,Operator Error,Fatal
+Nadia,Farm Road,Male,Tractor,Type A,Tractor Model X,Falling,Mechanical Failure,Fatal
+Nadia,Field,Male,Tractor,Type C,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Male,Tractor,Type C,Thresher Model Z,Collision,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type D,Tractor Model X,Collision,Mechanical Failure,Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type D,Tractor Model X,Entanglement,Weather Conditions,Fatal
+Jalpaiguri,Field,Female,Thresher,Type C,Thresher Model Z,Entanglement,Mechanical Failure,Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type A,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type B,Thresher Model Z,Overturning,Mechanical Failure,Fatal
+Jalpaiguri,Farm Road,Female,Thresher,Type B,Thresher Model Z,Overturning,Weather Conditions,Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type A,Tractor Model X,Entanglement,Mechanical Failure,Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type A,Thresher Model Z,Entanglement,Weather Conditions,Fatal
+Jalpaiguri,Farm Road,Female,Thresher,Type C,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type A,Tractor Model X,Collision,Mechanical Failure,Fatal
+Nadia,Field,Male,Tractor,Type A,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+Nadia,Field,Female,Thresher,Type B,Thresher Model Z,Entanglement,Weather Conditions,Fatal
+Nadia,Field,Female,Thresher,Type A,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Female,Thresher,Type A,Thresher Model Z,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type B,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Male,Tractor,Type D,Harvester Model Y,Entanglement,Mechanical Failure,Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type A,Harvester Model Y,Falling,Weather Conditions,Fatal
+Nadia,Field,Male,Thresher,Type A,Thresher Model Z,Collision,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Female,Thresher,Type D,Harvester Model Y,Overturning,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type A,Harvester Model Y,Overturning,Mechanical Failure,Fatal
+Jalpaiguri,Field,Male,Tractor,Type C,Harvester Model Y,Entanglement,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type A,Tractor Model X,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type A,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type B,Tractor Model X,Collision,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type B,Thresher Model Z,Overturning,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type B,Tractor Model X,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Male,Thresher,Type C,Harvester Model Y,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type C,Harvester Model Y,Entanglement,Operator Error,Non-Fatal
+Jalpaiguri,Farm Road,Male,Thresher,Type A,Tractor Model X,Collision,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Female,Thresher,Type A,Tractor Model X,Entanglement,Mechanical Failure,Fatal
+Nadia,Field,Male,Tractor,Type A,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type A,Thresher Model Z,Collision,Operator Error,Non-Fatal
+Nadia,Field,Female,Tractor,Type D,Tractor Model X,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Farm Road,Male,Tractor,Type A,Tractor Model X,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type D,Thresher Model Z,Entanglement,Operator Error,Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type A,Harvester Model Y,Falling,Mechanical Failure,Fatal
+Nadia,Field,Female,Combine Harvester,Type D,Harvester Model Y,Overturning,Operator Error,Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type C,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type A,Thresher Model Z,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type B,Thresher Model Z,Overturning,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type D,Tractor Model X,Overturning,Operator Error,Fatal
+Jalpaiguri,Field,Male,Tractor,Type A,Harvester Model Y,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type A,Harvester Model Y,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type D,Thresher Model Z,Falling,Weather Conditions,Fatal
+Jalpaiguri,Field,Male,Tractor,Type A,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type B,Thresher Model Z,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type C,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type A,Tractor Model X,Entanglement,Operator Error,Fatal
+Nadia,Field,Male,Thresher,Type C,Tractor Model X,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type C,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type B,Harvester Model Y,Collision,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type A,Tractor Model X,Entanglement,Mechanical Failure,Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type C,Thresher Model Z,Collision,Weather Conditions,Fatal
+Nadia,Field,Male,Thresher,Type B,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Male,Combine Harvester,Type D,Tractor Model X,Entanglement,Weather Conditions,Fatal
+Nadia,Field,Male,Tractor,Type C,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Tractor,Type C,Tractor Model X,Collision,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type A,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Thresher,Type A,Harvester Model Y,Overturning,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type A,Thresher Model Z,Entanglement,Operator Error,Non-Fatal
+Nadia,Field,Male,Tractor,Type A,Harvester Model Y,Entanglement,Mechanical Failure,Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type C,Thresher Model Z,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type C,Harvester Model Y,Collision,Mechanical Failure,Fatal
+Nadia,Farm Road,Male,Combine Harvester,Type A,Tractor Model X,Collision,Operator Error,Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type B,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type C,Thresher Model Z,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type C,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type B,Thresher Model Z,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type C,Thresher Model Z,Collision,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type A,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type C,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type A,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type A,Harvester Model Y,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type A,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type C,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type C,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Tractor,Type A,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type C,Harvester Model Y,Falling,Operator Error,Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type C,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type D,Harvester Model Y,Collision,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type A,Tractor Model X,Overturning,Weather Conditions,Fatal
+South Twenty Four Parganas,Farm Road,Female,Thresher,Type A,Harvester Model Y,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type A,Thresher Model Z,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type A,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Male,Thresher,Type B,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Male,Tractor,Type D,Tractor Model X,Collision,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type D,Tractor Model X,Overturning,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type B,Harvester Model Y,Collision,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type D,Thresher Model Z,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type D,Thresher Model Z,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type B,Harvester Model Y,Overturning,Mechanical Failure,Fatal
+Jalpaiguri,Field,Male,Thresher,Type D,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type B,Thresher Model Z,Entanglement,Operator Error,Fatal
+Jalpaiguri,Field,Female,Thresher,Type D,Harvester Model Y,Falling,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Male,Tractor,Type D,Thresher Model Z,Collision,Operator Error,Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type A,Harvester Model Y,Collision,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type A,Tractor Model X,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type A,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type C,Harvester Model Y,Entanglement,Operator Error,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type C,Harvester Model Y,Collision,Weather Conditions,Fatal
+Nadia,Farm Road,Female,Tractor,Type D,Thresher Model Z,Overturning,Weather Conditions,Fatal
+Nadia,Field,Male,Combine Harvester,Type A,Thresher Model Z,Collision,Operator Error,Fatal
+Nadia,Farm Road,Male,Thresher,Type B,Thresher Model Z,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type B,Thresher Model Z,Collision,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type B,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Thresher,Type D,Thresher Model Z,Collision,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Tractor,Type B,Thresher Model Z,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type D,Thresher Model Z,Collision,Weather Conditions,Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type D,Thresher Model Z,Falling,Mechanical Failure,Fatal
+Nadia,Field,Male,Thresher,Type A,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type D,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Male,Thresher,Type D,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type B,Tractor Model X,Collision,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type C,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Male,Tractor,Type D,Tractor Model X,Overturning,Weather Conditions,Fatal
+Nadia,Field,Male,Tractor,Type B,Tractor Model X,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type B,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type A,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type B,Tractor Model X,Collision,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type D,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type D,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Male,Thresher,Type A,Tractor Model X,Overturning,Operator Error,Non-Fatal
+Nadia,Field,Female,Tractor,Type C,Harvester Model Y,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type C,Tractor Model X,Collision,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Male,Tractor,Type C,Tractor Model X,Falling,Operator Error,Non-Fatal
+Nadia,Field,Male,Tractor,Type C,Harvester Model Y,Entanglement,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type D,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type C,Thresher Model Z,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type D,Thresher Model Z,Collision,Operator Error,Non-Fatal
+Nadia,Farm Road,Female,Tractor,Type B,Tractor Model X,Collision,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type B,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Female,Thresher,Type C,Harvester Model Y,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type D,Tractor Model X,Overturning,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type C,Harvester Model Y,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type C,Harvester Model Y,Falling,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type B,Thresher Model Z,Collision,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type D,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type C,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type D,Tractor Model X,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type B,Thresher Model Z,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type B,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type A,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type A,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type D,Harvester Model Y,Collision,Weather Conditions,Fatal
+Nadia,Field,Male,Combine Harvester,Type D,Thresher Model Z,Entanglement,Operator Error,Fatal
+South Twenty Four Parganas,Farm Road,Female,Thresher,Type D,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Thresher,Type B,Tractor Model X,Entanglement,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type D,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Thresher,Type B,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type A,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type B,Thresher Model Z,Entanglement,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type A,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type B,Thresher Model Z,Collision,Operator Error,Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type C,Harvester Model Y,Entanglement,Weather Conditions,Fatal
+Jalpaiguri,Farm Road,Male,Tractor,Type D,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type D,Thresher Model Z,Overturning,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type B,Tractor Model X,Overturning,Operator Error,Fatal
+Nadia,Field,Female,Thresher,Type A,Tractor Model X,Falling,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type C,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Tractor,Type A,Harvester Model Y,Entanglement,Operator Error,Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type A,Thresher Model Z,Collision,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type B,Thresher Model Z,Collision,Operator Error,Fatal
+Nadia,Field,Female,Combine Harvester,Type B,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type C,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type B,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type D,Thresher Model Z,Entanglement,Operator Error,Non-Fatal
+Nadia,Field,Male,Thresher,Type A,Tractor Model X,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type C,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type C,Tractor Model X,Falling,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type A,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type C,Tractor Model X,Collision,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Tractor,Type D,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type B,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type D,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Male,Thresher,Type B,Harvester Model Y,Entanglement,Mechanical Failure,Fatal
+Nadia,Field,Male,Combine Harvester,Type A,Thresher Model Z,Entanglement,Operator Error,Non-Fatal
+Nadia,Farm Road,Male,Tractor,Type C,Thresher Model Z,Overturning,Mechanical Failure,Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type A,Tractor Model X,Collision,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Thresher,Type D,Thresher Model Z,Falling,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type B,Thresher Model Z,Collision,Operator Error,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type C,Thresher Model Z,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Male,Combine Harvester,Type B,Thresher Model Z,Overturning,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type A,Tractor Model X,Falling,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type B,Harvester Model Y,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type C,Tractor Model X,Entanglement,Weather Conditions,Fatal
+Nadia,Field,Male,Tractor,Type D,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type D,Harvester Model Y,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type C,Thresher Model Z,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type B,Harvester Model Y,Overturning,Weather Conditions,Fatal
+Nadia,Field,Male,Thresher,Type C,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type D,Tractor Model X,Falling,Operator Error,Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type A,Harvester Model Y,Collision,Weather Conditions,Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type C,Harvester Model Y,Entanglement,Operator Error,Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type A,Harvester Model Y,Falling,Operator Error,Fatal
+Nadia,Farm Road,Male,Thresher,Type D,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Male,Combine Harvester,Type D,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type B,Harvester Model Y,Collision,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Thresher,Type D,Tractor Model X,Falling,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type D,Tractor Model X,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type B,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Female,Thresher,Type D,Harvester Model Y,Collision,Mechanical Failure,Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type C,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type A,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Tractor,Type D,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type D,Tractor Model X,Falling,Operator Error,Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type D,Harvester Model Y,Collision,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type C,Harvester Model Y,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type C,Tractor Model X,Collision,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Tractor,Type A,Harvester Model Y,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type B,Thresher Model Z,Collision,Weather Conditions,Fatal
+Nadia,Farm Road,Female,Tractor,Type A,Harvester Model Y,Collision,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type A,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type C,Thresher Model Z,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type B,Thresher Model Z,Collision,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type B,Tractor Model X,Falling,Operator Error,Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type D,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Male,Thresher,Type A,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Tractor,Type B,Harvester Model Y,Collision,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type B,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Tractor,Type C,Thresher Model Z,Overturning,Mechanical Failure,Fatal
+South Twenty Four Parganas,Farm Road,Female,Tractor,Type C,Thresher Model Z,Entanglement,Operator Error,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type B,Thresher Model Z,Overturning,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type C,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type B,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type B,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type D,Thresher Model Z,Collision,Operator Error,Non-Fatal
+Nadia,Field,Female,Thresher,Type D,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type B,Harvester Model Y,Overturning,Operator Error,Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type B,Thresher Model Z,Entanglement,Weather Conditions,Fatal
+Nadia,Field,Male,Thresher,Type A,Thresher Model Z,Overturning,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type A,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Thresher,Type B,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type D,Tractor Model X,Overturning,Weather Conditions,Fatal
+Nadia,Field,Female,Thresher,Type A,Harvester Model Y,Collision,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type A,Harvester Model Y,Falling,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type B,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type C,Thresher Model Z,Falling,Operator Error,Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type A,Harvester Model Y,Falling,Operator Error,Fatal
+Jalpaiguri,Field,Female,Tractor,Type B,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type D,Thresher Model Z,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type A,Tractor Model X,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type C,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type D,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type D,Tractor Model X,Collision,Mechanical Failure,Fatal
+Jalpaiguri,Field,Female,Tractor,Type A,Tractor Model X,Entanglement,Operator Error,Fatal
+Nadia,Field,Male,Combine Harvester,Type C,Tractor Model X,Overturning,Mechanical Failure,Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type A,Thresher Model Z,Overturning,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type C,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type A,Tractor Model X,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type C,Thresher Model Z,Entanglement,Mechanical Failure,Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type B,Tractor Model X,Entanglement,Weather Conditions,Fatal
+Nadia,Field,Female,Thresher,Type D,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Male,Combine Harvester,Type B,Harvester Model Y,Entanglement,Weather Conditions,Fatal
+Nadia,Field,Female,Combine Harvester,Type D,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type A,Thresher Model Z,Overturning,Mechanical Failure,Fatal
+Nadia,Field,Female,Combine Harvester,Type D,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type D,Tractor Model X,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type D,Harvester Model Y,Collision,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type D,Harvester Model Y,Collision,Mechanical Failure,Fatal
+Nadia,Field,Female,Tractor,Type C,Harvester Model Y,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type D,Tractor Model X,Collision,Operator Error,Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type C,Tractor Model X,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type A,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type C,Thresher Model Z,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type C,Tractor Model X,Falling,Weather Conditions,Fatal
+Jalpaiguri,Farm Road,Male,Tractor,Type A,Thresher Model Z,Collision,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type B,Tractor Model X,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type C,Thresher Model Z,Collision,Mechanical Failure,Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type D,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type A,Harvester Model Y,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type A,Harvester Model Y,Overturning,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type A,Harvester Model Y,Overturning,Operator Error,Fatal
+Jalpaiguri,Farm Road,Female,Thresher,Type D,Thresher Model Z,Overturning,Operator Error,Non-Fatal
+Nadia,Farm Road,Female,Tractor,Type B,Tractor Model X,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type A,Tractor Model X,Collision,Weather Conditions,Fatal
+Nadia,Farm Road,Male,Tractor,Type D,Thresher Model Z,Overturning,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type B,Harvester Model Y,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Farm Road,Male,Tractor,Type A,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Female,Tractor,Type A,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type A,Thresher Model Z,Overturning,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type B,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type B,Thresher Model Z,Entanglement,Operator Error,Fatal
+Nadia,Farm Road,Female,Thresher,Type A,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type A,Tractor Model X,Collision,Operator Error,Non-Fatal
+Nadia,Field,Female,Tractor,Type A,Tractor Model X,Collision,Operator Error,Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type A,Harvester Model Y,Overturning,Mechanical Failure,Fatal
+Nadia,Field,Female,Thresher,Type A,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type B,Harvester Model Y,Collision,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type C,Tractor Model X,Falling,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type C,Harvester Model Y,Collision,Operator Error,Fatal
+Nadia,Field,Male,Thresher,Type B,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Farm Road,Female,Thresher,Type B,Thresher Model Z,Falling,Weather Conditions,Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type C,Tractor Model X,Entanglement,Weather Conditions,Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type A,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type B,Thresher Model Z,Overturning,Mechanical Failure,Fatal
+Nadia,Field,Male,Tractor,Type C,Harvester Model Y,Entanglement,Weather Conditions,Fatal
+South Twenty Four Parganas,Farm Road,Female,Thresher,Type C,Tractor Model X,Falling,Mechanical Failure,Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type D,Tractor Model X,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type A,Harvester Model Y,Entanglement,Mechanical Failure,Fatal
+Nadia,Field,Female,Tractor,Type C,Harvester Model Y,Falling,Operator Error,Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type C,Tractor Model X,Collision,Weather Conditions,Fatal
+Jalpaiguri,Field,Male,Tractor,Type C,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type C,Tractor Model X,Falling,Weather Conditions,Fatal
+Nadia,Field,Female,Thresher,Type D,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type B,Tractor Model X,Overturning,Weather Conditions,Fatal
+Nadia,Field,Female,Thresher,Type A,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type B,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type B,Thresher Model Z,Overturning,Operator Error,Non-Fatal
+Nadia,Field,Female,Tractor,Type C,Harvester Model Y,Collision,Mechanical Failure,Fatal
+Nadia,Field,Male,Combine Harvester,Type A,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type B,Tractor Model X,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type D,Tractor Model X,Falling,Mechanical Failure,Fatal
+Jalpaiguri,Field,Male,Tractor,Type B,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Thresher,Type D,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type D,Tractor Model X,Falling,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type D,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Male,Thresher,Type C,Thresher Model Z,Collision,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Tractor,Type D,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type D,Harvester Model Y,Collision,Weather Conditions,Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type A,Harvester Model Y,Falling,Weather Conditions,Fatal
+Nadia,Field,Male,Combine Harvester,Type A,Thresher Model Z,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type B,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type D,Tractor Model X,Collision,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Male,Thresher,Type C,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type C,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type B,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type A,Harvester Model Y,Overturning,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type D,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type B,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type C,Harvester Model Y,Entanglement,Mechanical Failure,Fatal
+Jalpaiguri,Field,Male,Tractor,Type D,Tractor Model X,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type A,Tractor Model X,Falling,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type D,Harvester Model Y,Entanglement,Operator Error,Fatal
+Jalpaiguri,Field,Female,Thresher,Type A,Tractor Model X,Overturning,Weather Conditions,Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type C,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type B,Thresher Model Z,Collision,Operator Error,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type A,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Female,Thresher,Type C,Thresher Model Z,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Farm Road,Female,Thresher,Type C,Tractor Model X,Collision,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type A,Thresher Model Z,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type A,Harvester Model Y,Collision,Operator Error,Fatal
+Jalpaiguri,Farm Road,Male,Thresher,Type B,Thresher Model Z,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type B,Harvester Model Y,Falling,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type A,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type C,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type C,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type A,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type A,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Tractor,Type B,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type D,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type B,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Tractor,Type C,Tractor Model X,Collision,Operator Error,Fatal
+Jalpaiguri,Field,Female,Tractor,Type A,Harvester Model Y,Collision,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type D,Harvester Model Y,Falling,Operator Error,Non-Fatal
+Nadia,Field,Male,Thresher,Type D,Thresher Model Z,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type B,Harvester Model Y,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type A,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type B,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Male,Tractor,Type B,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Tractor,Type B,Thresher Model Z,Overturning,Operator Error,Non-Fatal
+Nadia,Field,Male,Tractor,Type B,Tractor Model X,Collision,Operator Error,Fatal
+Nadia,Field,Male,Thresher,Type B,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type C,Harvester Model Y,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type B,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type C,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type A,Thresher Model Z,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Male,Tractor,Type C,Thresher Model Z,Collision,Weather Conditions,Fatal
+Nadia,Farm Road,Female,Thresher,Type C,Tractor Model X,Collision,Weather Conditions,Fatal
+Nadia,Field,Male,Combine Harvester,Type C,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Female,Tractor,Type C,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type D,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type B,Tractor Model X,Falling,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type D,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type D,Harvester Model Y,Collision,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type A,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type C,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type C,Tractor Model X,Collision,Operator Error,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type A,Tractor Model X,Overturning,Operator Error,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type D,Harvester Model Y,Collision,Operator Error,Fatal
+South Twenty Four Parganas,Farm Road,Female,Tractor,Type D,Tractor Model X,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type A,Tractor Model X,Overturning,Weather Conditions,Fatal
+Nadia,Field,Male,Tractor,Type B,Tractor Model X,Entanglement,Mechanical Failure,Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type C,Harvester Model Y,Collision,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type D,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type D,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type D,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type C,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type A,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Nadia,Farm Road,Female,Thresher,Type A,Thresher Model Z,Falling,Operator Error,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type A,Tractor Model X,Collision,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Thresher,Type D,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type A,Harvester Model Y,Overturning,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type A,Harvester Model Y,Collision,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type A,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Thresher,Type C,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Female,Tractor,Type B,Thresher Model Z,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type C,Thresher Model Z,Overturning,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type A,Harvester Model Y,Overturning,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type D,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type C,Harvester Model Y,Falling,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Female,Thresher,Type A,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type C,Thresher Model Z,Overturning,Operator Error,Fatal
+Jalpaiguri,Field,Female,Thresher,Type D,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type D,Harvester Model Y,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type A,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Female,Tractor,Type C,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Tractor,Type D,Harvester Model Y,Collision,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type D,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Thresher,Type B,Harvester Model Y,Entanglement,Weather Conditions,Fatal
+Nadia,Farm Road,Male,Tractor,Type D,Harvester Model Y,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type A,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Thresher,Type A,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type A,Harvester Model Y,Collision,Operator Error,Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type B,Thresher Model Z,Overturning,Operator Error,Fatal
+Nadia,Field,Male,Combine Harvester,Type A,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Female,Thresher,Type D,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Male,Combine Harvester,Type D,Tractor Model X,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type D,Thresher Model Z,Entanglement,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type A,Harvester Model Y,Falling,Operator Error,Non-Fatal
+Nadia,Field,Male,Tractor,Type C,Tractor Model X,Falling,Weather Conditions,Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type C,Harvester Model Y,Falling,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Thresher,Type A,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type C,Harvester Model Y,Entanglement,Mechanical Failure,Fatal
+Jalpaiguri,Field,Female,Tractor,Type C,Tractor Model X,Falling,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type D,Harvester Model Y,Falling,Mechanical Failure,Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type B,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type B,Tractor Model X,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Farm Road,Male,Tractor,Type A,Thresher Model Z,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type B,Tractor Model X,Collision,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type A,Thresher Model Z,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type D,Thresher Model Z,Collision,Operator Error,Fatal
+Nadia,Field,Female,Combine Harvester,Type C,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Male,Thresher,Type B,Thresher Model Z,Collision,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type A,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type B,Harvester Model Y,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Tractor,Type A,Tractor Model X,Collision,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type B,Harvester Model Y,Collision,Mechanical Failure,Fatal
+Nadia,Field,Male,Thresher,Type D,Tractor Model X,Overturning,Mechanical Failure,Fatal
+Jalpaiguri,Field,Male,Tractor,Type C,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type B,Harvester Model Y,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type B,Thresher Model Z,Entanglement,Mechanical Failure,Fatal
+Nadia,Field,Female,Tractor,Type A,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type B,Thresher Model Z,Overturning,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type B,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type B,Tractor Model X,Falling,Operator Error,Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type A,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Thresher,Type B,Harvester Model Y,Collision,Mechanical Failure,Fatal
+Jalpaiguri,Field,Female,Tractor,Type C,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type D,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type D,Tractor Model X,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type B,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type A,Harvester Model Y,Entanglement,Weather Conditions,Fatal
+Nadia,Field,Male,Thresher,Type A,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type D,Thresher Model Z,Collision,Mechanical Failure,Fatal
+Nadia,Farm Road,Female,Tractor,Type A,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type C,Tractor Model X,Falling,Operator Error,Fatal
+Nadia,Farm Road,Female,Tractor,Type D,Tractor Model X,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type C,Thresher Model Z,Overturning,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Tractor,Type B,Thresher Model Z,Overturning,Mechanical Failure,Fatal
+Jalpaiguri,Field,Female,Tractor,Type C,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type B,Harvester Model Y,Entanglement,Mechanical Failure,Fatal
+Nadia,Field,Female,Tractor,Type D,Harvester Model Y,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type C,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type C,Harvester Model Y,Falling,Mechanical Failure,Fatal
+Nadia,Field,Female,Tractor,Type D,Thresher Model Z,Collision,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type C,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type A,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type A,Tractor Model X,Collision,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Tractor,Type B,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+Nadia,Farm Road,Male,Tractor,Type C,Harvester Model Y,Falling,Weather Conditions,Fatal
+Nadia,Field,Male,Tractor,Type A,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Thresher,Type D,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type A,Tractor Model X,Falling,Mechanical Failure,Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type D,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Nadia,Field,Male,Thresher,Type C,Thresher Model Z,Overturning,Mechanical Failure,Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type D,Harvester Model Y,Falling,Mechanical Failure,Fatal
+Nadia,Field,Male,Tractor,Type B,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type D,Tractor Model X,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type B,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type D,Thresher Model Z,Falling,Mechanical Failure,Fatal
+Jalpaiguri,Farm Road,Male,Thresher,Type B,Tractor Model X,Falling,Operator Error,Non-Fatal
+Nadia,Field,Male,Thresher,Type B,Tractor Model X,Overturning,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type A,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type C,Tractor Model X,Entanglement,Operator Error,Fatal
+Nadia,Field,Male,Combine Harvester,Type D,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type C,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type C,Harvester Model Y,Entanglement,Weather Conditions,Fatal
+Nadia,Field,Male,Thresher,Type C,Thresher Model Z,Collision,Weather Conditions,Fatal
+Jalpaiguri,Field,Male,Tractor,Type D,Thresher Model Z,Collision,Weather Conditions,Fatal
+Jalpaiguri,Farm Road,Male,Thresher,Type B,Tractor Model X,Falling,Weather Conditions,Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type D,Harvester Model Y,Collision,Weather Conditions,Fatal
+Jalpaiguri,Field,Male,Thresher,Type A,Tractor Model X,Entanglement,Mechanical Failure,Fatal
+Nadia,Field,Male,Thresher,Type C,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type B,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type B,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Thresher,Type D,Tractor Model X,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type C,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type D,Tractor Model X,Falling,Weather Conditions,Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type D,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type C,Tractor Model X,Overturning,Operator Error,Non-Fatal
+Nadia,Farm Road,Female,Thresher,Type A,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Male,Thresher,Type B,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type C,Tractor Model X,Collision,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Tractor,Type B,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Tractor,Type C,Thresher Model Z,Entanglement,Weather Conditions,Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type A,Tractor Model X,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type A,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type A,Harvester Model Y,Falling,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type D,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type A,Harvester Model Y,Falling,Weather Conditions,Fatal
+Nadia,Farm Road,Male,Combine Harvester,Type D,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type B,Tractor Model X,Overturning,Operator Error,Non-Fatal
+Nadia,Field,Female,Tractor,Type B,Thresher Model Z,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type D,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Female,Thresher,Type D,Thresher Model Z,Collision,Operator Error,Fatal
+Nadia,Field,Male,Tractor,Type D,Thresher Model Z,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type B,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type A,Harvester Model Y,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type B,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type C,Tractor Model X,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type D,Tractor Model X,Overturning,Mechanical Failure,Fatal
+Jalpaiguri,Field,Male,Thresher,Type B,Tractor Model X,Collision,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Tractor,Type B,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type A,Thresher Model Z,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type C,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type C,Thresher Model Z,Entanglement,Operator Error,Fatal
+Nadia,Field,Female,Tractor,Type C,Tractor Model X,Collision,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type B,Thresher Model Z,Collision,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Tractor,Type B,Tractor Model X,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type A,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type B,Thresher Model Z,Overturning,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type D,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type A,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+Nadia,Field,Female,Tractor,Type D,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Nadia,Field,Male,Thresher,Type C,Thresher Model Z,Collision,Operator Error,Non-Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type B,Harvester Model Y,Falling,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Female,Tractor,Type C,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Tractor,Type B,Tractor Model X,Entanglement,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type D,Thresher Model Z,Collision,Operator Error,Non-Fatal
+Nadia,Farm Road,Male,Thresher,Type D,Thresher Model Z,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Thresher,Type C,Thresher Model Z,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type A,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Male,Combine Harvester,Type A,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type B,Thresher Model Z,Falling,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type D,Thresher Model Z,Falling,Operator Error,Non-Fatal
+Nadia,Farm Road,Male,Tractor,Type B,Harvester Model Y,Overturning,Weather Conditions,Fatal
+Nadia,Field,Female,Thresher,Type A,Tractor Model X,Collision,Operator Error,Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type B,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type B,Harvester Model Y,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type A,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Nadia,Field,Female,Tractor,Type D,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Female,Tractor,Type C,Tractor Model X,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type A,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Tractor,Type A,Thresher Model Z,Collision,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type D,Tractor Model X,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type D,Thresher Model Z,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type C,Thresher Model Z,Collision,Operator Error,Fatal
+Nadia,Farm Road,Male,Combine Harvester,Type D,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type B,Harvester Model Y,Entanglement,Weather Conditions,Fatal
+Jalpaiguri,Field,Female,Thresher,Type D,Thresher Model Z,Collision,Operator Error,Fatal
+Nadia,Field,Male,Combine Harvester,Type D,Thresher Model Z,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Female,Thresher,Type B,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type B,Harvester Model Y,Falling,Operator Error,Fatal
+Jalpaiguri,Field,Male,Thresher,Type B,Harvester Model Y,Falling,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Thresher,Type A,Thresher Model Z,Entanglement,Mechanical Failure,Fatal
+South Twenty Four Parganas,Farm Road,Female,Tractor,Type D,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type B,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type D,Thresher Model Z,Entanglement,Weather Conditions,Fatal
+Jalpaiguri,Field,Male,Tractor,Type C,Tractor Model X,Falling,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Tractor,Type A,Harvester Model Y,Falling,Operator Error,Fatal
+Nadia,Farm Road,Male,Combine Harvester,Type D,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type C,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type A,Harvester Model Y,Falling,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type D,Tractor Model X,Entanglement,Mechanical Failure,Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type A,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type C,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type B,Harvester Model Y,Entanglement,Operator Error,Non-Fatal
+Nadia,Field,Male,Thresher,Type D,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type A,Tractor Model X,Overturning,Operator Error,Non-Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type B,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Female,Thresher,Type A,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type D,Thresher Model Z,Overturning,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Male,Thresher,Type B,Harvester Model Y,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type C,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type A,Harvester Model Y,Falling,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type C,Thresher Model Z,Collision,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Thresher,Type B,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type A,Harvester Model Y,Falling,Operator Error,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type B,Harvester Model Y,Overturning,Operator Error,Non-Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type A,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type A,Harvester Model Y,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type C,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type C,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type C,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Thresher,Type C,Thresher Model Z,Entanglement,Weather Conditions,Fatal
+Nadia,Field,Female,Tractor,Type A,Harvester Model Y,Falling,Operator Error,Fatal
+Nadia,Field,Male,Tractor,Type D,Tractor Model X,Entanglement,Weather Conditions,Fatal
+Jalpaiguri,Field,Male,Thresher,Type B,Thresher Model Z,Overturning,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Male,Thresher,Type C,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type C,Harvester Model Y,Falling,Operator Error,Fatal
+Nadia,Farm Road,Female,Thresher,Type A,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type B,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type A,Harvester Model Y,Falling,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type B,Tractor Model X,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type A,Tractor Model X,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type B,Thresher Model Z,Entanglement,Mechanical Failure,Fatal
+Nadia,Field,Female,Thresher,Type D,Thresher Model Z,Overturning,Weather Conditions,Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type A,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type C,Thresher Model Z,Overturning,Operator Error,Fatal
+Nadia,Field,Male,Tractor,Type B,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+Nadia,Field,Female,Thresher,Type A,Tractor Model X,Overturning,Operator Error,Fatal
+Jalpaiguri,Field,Female,Tractor,Type B,Harvester Model Y,Collision,Mechanical Failure,Fatal
+Nadia,Field,Female,Tractor,Type D,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Female,Thresher,Type C,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type D,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type A,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type D,Tractor Model X,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type A,Tractor Model X,Collision,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type C,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type B,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type D,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type C,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type A,Thresher Model Z,Overturning,Weather Conditions,Fatal
+Nadia,Field,Female,Combine Harvester,Type D,Thresher Model Z,Falling,Weather Conditions,Fatal
+Nadia,Field,Female,Thresher,Type C,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type C,Thresher Model Z,Overturning,Operator Error,Fatal
+South Twenty Four Parganas,Farm Road,Female,Thresher,Type A,Tractor Model X,Overturning,Operator Error,Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type C,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type B,Tractor Model X,Entanglement,Mechanical Failure,Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type C,Tractor Model X,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type C,Harvester Model Y,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type D,Harvester Model Y,Entanglement,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type C,Tractor Model X,Collision,Weather Conditions,Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type C,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type D,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type C,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Tractor,Type C,Tractor Model X,Entanglement,Operator Error,Fatal
+Nadia,Field,Male,Tractor,Type D,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Male,Tractor,Type C,Harvester Model Y,Collision,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type D,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type C,Tractor Model X,Collision,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type A,Tractor Model X,Falling,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type D,Tractor Model X,Entanglement,Operator Error,Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type B,Thresher Model Z,Falling,Operator Error,Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type D,Harvester Model Y,Overturning,Operator Error,Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type D,Tractor Model X,Falling,Mechanical Failure,Fatal
+Nadia,Field,Male,Thresher,Type B,Thresher Model Z,Entanglement,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type D,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type C,Harvester Model Y,Overturning,Operator Error,Non-Fatal
+Nadia,Field,Male,Thresher,Type C,Harvester Model Y,Collision,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Thresher,Type C,Tractor Model X,Falling,Operator Error,Fatal
+Nadia,Field,Female,Combine Harvester,Type C,Thresher Model Z,Falling,Operator Error,Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type A,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Tractor,Type B,Thresher Model Z,Overturning,Operator Error,Fatal
+Jalpaiguri,Farm Road,Male,Tractor,Type C,Tractor Model X,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type B,Thresher Model Z,Collision,Operator Error,Fatal
+Jalpaiguri,Field,Female,Thresher,Type D,Tractor Model X,Overturning,Mechanical Failure,Fatal
+Nadia,Field,Female,Combine Harvester,Type D,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type B,Tractor Model X,Falling,Mechanical Failure,Fatal
+Jalpaiguri,Farm Road,Female,Thresher,Type D,Harvester Model Y,Collision,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type B,Harvester Model Y,Falling,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type B,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Tractor,Type D,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type B,Harvester Model Y,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type D,Tractor Model X,Entanglement,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Thresher,Type B,Tractor Model X,Entanglement,Operator Error,Fatal
+Nadia,Field,Female,Combine Harvester,Type C,Tractor Model X,Overturning,Mechanical Failure,Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type B,Harvester Model Y,Collision,Operator Error,Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type D,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type A,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type C,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type A,Harvester Model Y,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type C,Thresher Model Z,Falling,Weather Conditions,Fatal
+Nadia,Farm Road,Male,Tractor,Type D,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type A,Thresher Model Z,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Tractor,Type B,Harvester Model Y,Entanglement,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type D,Tractor Model X,Overturning,Operator Error,Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type B,Thresher Model Z,Overturning,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type D,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type D,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type B,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type D,Thresher Model Z,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type B,Harvester Model Y,Entanglement,Mechanical Failure,Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type B,Harvester Model Y,Collision,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type D,Tractor Model X,Overturning,Operator Error,Non-Fatal
+Nadia,Field,Male,Tractor,Type D,Harvester Model Y,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Farm Road,Female,Thresher,Type B,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type B,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type A,Thresher Model Z,Entanglement,Operator Error,Non-Fatal
+Nadia,Farm Road,Male,Thresher,Type D,Harvester Model Y,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type A,Thresher Model Z,Entanglement,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type B,Thresher Model Z,Entanglement,Weather Conditions,Fatal
+Jalpaiguri,Field,Male,Thresher,Type B,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Tractor,Type A,Thresher Model Z,Overturning,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type C,Tractor Model X,Falling,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type B,Thresher Model Z,Overturning,Mechanical Failure,Fatal
+Jalpaiguri,Field,Male,Thresher,Type A,Harvester Model Y,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type C,Tractor Model X,Overturning,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type A,Harvester Model Y,Collision,Operator Error,Fatal
+Jalpaiguri,Farm Road,Male,Thresher,Type D,Thresher Model Z,Collision,Weather Conditions,Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type A,Thresher Model Z,Collision,Operator Error,Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type D,Harvester Model Y,Falling,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Female,Thresher,Type A,Thresher Model Z,Overturning,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Thresher,Type B,Thresher Model Z,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Thresher,Type A,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type B,Tractor Model X,Entanglement,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Female,Tractor,Type C,Thresher Model Z,Entanglement,Operator Error,Non-Fatal
+Jalpaiguri,Farm Road,Male,Tractor,Type B,Harvester Model Y,Collision,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type D,Tractor Model X,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type D,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type C,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type D,Thresher Model Z,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type A,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Male,Tractor,Type B,Thresher Model Z,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type D,Thresher Model Z,Overturning,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Thresher,Type B,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type D,Thresher Model Z,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type B,Harvester Model Y,Entanglement,Mechanical Failure,Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type B,Harvester Model Y,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type C,Harvester Model Y,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type A,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type A,Harvester Model Y,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type A,Thresher Model Z,Falling,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type D,Tractor Model X,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type C,Tractor Model X,Falling,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Tractor,Type C,Harvester Model Y,Falling,Operator Error,Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type A,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Male,Tractor,Type C,Tractor Model X,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type A,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type A,Thresher Model Z,Collision,Mechanical Failure,Fatal
+Jalpaiguri,Field,Male,Thresher,Type B,Thresher Model Z,Collision,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Tractor,Type A,Thresher Model Z,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type A,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type C,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type A,Harvester Model Y,Falling,Operator Error,Fatal
+Nadia,Field,Female,Combine Harvester,Type A,Thresher Model Z,Overturning,Operator Error,Non-Fatal
+Nadia,Field,Male,Thresher,Type B,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Thresher,Type B,Harvester Model Y,Overturning,Operator Error,Fatal
+Nadia,Field,Male,Combine Harvester,Type A,Thresher Model Z,Collision,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type A,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Male,Tractor,Type A,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Tractor,Type D,Tractor Model X,Entanglement,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type C,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type C,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type A,Thresher Model Z,Overturning,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type A,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Nadia,Farm Road,Female,Tractor,Type C,Thresher Model Z,Falling,Operator Error,Fatal
+Jalpaiguri,Field,Female,Thresher,Type A,Tractor Model X,Falling,Operator Error,Non-Fatal
+Nadia,Field,Female,Thresher,Type D,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Thresher,Type D,Harvester Model Y,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type A,Harvester Model Y,Collision,Mechanical Failure,Fatal
+Nadia,Farm Road,Female,Thresher,Type A,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+Nadia,Farm Road,Female,Thresher,Type C,Tractor Model X,Falling,Weather Conditions,Fatal
+Nadia,Farm Road,Male,Combine Harvester,Type C,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type A,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Tractor,Type D,Tractor Model X,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type B,Thresher Model Z,Overturning,Mechanical Failure,Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type A,Thresher Model Z,Entanglement,Weather Conditions,Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type A,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Female,Thresher,Type B,Harvester Model Y,Falling,Operator Error,Non-Fatal
+Nadia,Field,Female,Tractor,Type A,Harvester Model Y,Entanglement,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type C,Tractor Model X,Falling,Operator Error,Fatal
+Nadia,Field,Female,Tractor,Type C,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type D,Harvester Model Y,Falling,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Thresher,Type C,Thresher Model Z,Collision,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type B,Thresher Model Z,Collision,Weather Conditions,Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type A,Tractor Model X,Entanglement,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type A,Tractor Model X,Overturning,Operator Error,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type D,Tractor Model X,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type C,Harvester Model Y,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type C,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Tractor,Type C,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type A,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type C,Harvester Model Y,Falling,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type A,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type B,Thresher Model Z,Collision,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type B,Tractor Model X,Collision,Mechanical Failure,Fatal
+Nadia,Farm Road,Female,Tractor,Type C,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Female,Thresher,Type A,Thresher Model Z,Collision,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Tractor,Type A,Tractor Model X,Collision,Weather Conditions,Fatal
+Jalpaiguri,Field,Female,Tractor,Type C,Tractor Model X,Falling,Operator Error,Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type B,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type B,Harvester Model Y,Falling,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Male,Thresher,Type D,Thresher Model Z,Collision,Mechanical Failure,Fatal
+Jalpaiguri,Field,Female,Tractor,Type A,Tractor Model X,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type C,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type B,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Male,Tractor,Type A,Thresher Model Z,Collision,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type B,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Thresher,Type B,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type B,Thresher Model Z,Overturning,Mechanical Failure,Fatal
+Nadia,Farm Road,Male,Tractor,Type A,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type A,Tractor Model X,Overturning,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type C,Tractor Model X,Entanglement,Operator Error,Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type D,Harvester Model Y,Falling,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type D,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Nadia,Farm Road,Female,Tractor,Type D,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type C,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Male,Thresher,Type A,Tractor Model X,Falling,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type C,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Tractor,Type B,Harvester Model Y,Overturning,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type C,Thresher Model Z,Collision,Operator Error,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type A,Harvester Model Y,Falling,Operator Error,Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type B,Thresher Model Z,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type B,Thresher Model Z,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type B,Thresher Model Z,Falling,Operator Error,Non-Fatal
+Nadia,Field,Female,Tractor,Type D,Tractor Model X,Falling,Operator Error,Non-Fatal
+Nadia,Field,Male,Thresher,Type D,Harvester Model Y,Falling,Weather Conditions,Fatal
+Nadia,Field,Male,Tractor,Type D,Tractor Model X,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type C,Tractor Model X,Collision,Operator Error,Fatal
+South Twenty Four Parganas,Farm Road,Female,Thresher,Type D,Harvester Model Y,Falling,Weather Conditions,Fatal
+Jalpaiguri,Field,Female,Thresher,Type D,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Tractor,Type D,Thresher Model Z,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type A,Thresher Model Z,Overturning,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type A,Harvester Model Y,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type B,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type D,Tractor Model X,Entanglement,Operator Error,Fatal
+Jalpaiguri,Field,Male,Thresher,Type B,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type B,Tractor Model X,Overturning,Mechanical Failure,Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type A,Thresher Model Z,Falling,Operator Error,Fatal
+Jalpaiguri,Field,Female,Tractor,Type D,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Male,Tractor,Type B,Harvester Model Y,Entanglement,Operator Error,Fatal
+Nadia,Field,Male,Combine Harvester,Type A,Harvester Model Y,Overturning,Mechanical Failure,Fatal
+Jalpaiguri,Farm Road,Male,Thresher,Type D,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Male,Tractor,Type D,Tractor Model X,Overturning,Weather Conditions,Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type B,Tractor Model X,Collision,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Male,Thresher,Type B,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type B,Tractor Model X,Falling,Mechanical Failure,Fatal
+Nadia,Field,Female,Thresher,Type A,Thresher Model Z,Entanglement,Operator Error,Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type D,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type D,Tractor Model X,Collision,Operator Error,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type A,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type B,Tractor Model X,Collision,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Male,Thresher,Type C,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type D,Harvester Model Y,Falling,Weather Conditions,Fatal
+Nadia,Farm Road,Male,Combine Harvester,Type A,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Tractor,Type D,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type C,Tractor Model X,Collision,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Male,Thresher,Type D,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type B,Tractor Model X,Overturning,Mechanical Failure,Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type B,Tractor Model X,Entanglement,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type B,Harvester Model Y,Overturning,Mechanical Failure,Fatal
+Jalpaiguri,Field,Male,Tractor,Type B,Tractor Model X,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Tractor,Type B,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type C,Harvester Model Y,Entanglement,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type C,Harvester Model Y,Entanglement,Operator Error,Non-Fatal
+Nadia,Field,Female,Thresher,Type B,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type C,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type B,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Male,Combine Harvester,Type B,Tractor Model X,Falling,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type B,Tractor Model X,Collision,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Tractor,Type C,Harvester Model Y,Overturning,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type D,Harvester Model Y,Falling,Weather Conditions,Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type D,Harvester Model Y,Collision,Mechanical Failure,Fatal
+Jalpaiguri,Field,Female,Thresher,Type C,Tractor Model X,Collision,Operator Error,Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type D,Harvester Model Y,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type D,Tractor Model X,Entanglement,Weather Conditions,Fatal
+Jalpaiguri,Field,Male,Thresher,Type C,Tractor Model X,Collision,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type B,Harvester Model Y,Collision,Mechanical Failure,Fatal
+Jalpaiguri,Field,Female,Tractor,Type A,Tractor Model X,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type B,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type A,Tractor Model X,Collision,Operator Error,Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type B,Thresher Model Z,Overturning,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type C,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type D,Tractor Model X,Falling,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Thresher,Type C,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type B,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type C,Tractor Model X,Collision,Operator Error,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type B,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Tractor,Type A,Thresher Model Z,Collision,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Female,Combine Harvester,Type B,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type C,Tractor Model X,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type A,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type D,Harvester Model Y,Falling,Mechanical Failure,Fatal
+South Twenty Four Parganas,Farm Road,Female,Thresher,Type C,Thresher Model Z,Overturning,Operator Error,Non-Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type D,Harvester Model Y,Overturning,Weather Conditions,Fatal
+Jalpaiguri,Farm Road,Female,Thresher,Type C,Harvester Model Y,Falling,Operator Error,Fatal
+Nadia,Field,Female,Thresher,Type B,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type A,Harvester Model Y,Collision,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Tractor,Type C,Thresher Model Z,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type C,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type D,Tractor Model X,Entanglement,Operator Error,Fatal
+South Twenty Four Parganas,Field,Female,Thresher,Type A,Tractor Model X,Entanglement,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type A,Tractor Model X,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type C,Thresher Model Z,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type D,Harvester Model Y,Entanglement,Mechanical Failure,Fatal
+Jalpaiguri,Field,Male,Tractor,Type B,Harvester Model Y,Collision,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type A,Harvester Model Y,Entanglement,Weather Conditions,Fatal
+Jalpaiguri,Farm Road,Male,Tractor,Type B,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type A,Tractor Model X,Falling,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Male,Combine Harvester,Type B,Thresher Model Z,Collision,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type C,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Thresher,Type D,Tractor Model X,Overturning,Operator Error,Non-Fatal
+Nadia,Field,Male,Thresher,Type C,Thresher Model Z,Collision,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type B,Thresher Model Z,Collision,Operator Error,Fatal
+South Twenty Four Parganas,Farm Road,Female,Tractor,Type C,Thresher Model Z,Collision,Weather Conditions,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type C,Harvester Model Y,Collision,Operator Error,Fatal
+Jalpaiguri,Field,Female,Tractor,Type D,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Tractor,Type B,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type D,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type C,Thresher Model Z,Overturning,Mechanical Failure,Fatal
+South Twenty Four Parganas,Farm Road,Female,Tractor,Type D,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Combine Harvester,Type B,Tractor Model X,Collision,Weather Conditions,Fatal
+Jalpaiguri,Farm Road,Female,Tractor,Type B,Tractor Model X,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Thresher,Type A,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type A,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type B,Thresher Model Z,Falling,Operator Error,Fatal
+South Twenty Four Parganas,Farm Road,Female,Tractor,Type D,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type D,Tractor Model X,Falling,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type C,Thresher Model Z,Overturning,Operator Error,Non-Fatal
+Nadia,Field,Male,Combine Harvester,Type C,Harvester Model Y,Collision,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type B,Harvester Model Y,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type D,Tractor Model X,Falling,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type A,Tractor Model X,Entanglement,Operator Error,Non-Fatal
+Nadia,Farm Road,Male,Combine Harvester,Type B,Harvester Model Y,Falling,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type A,Thresher Model Z,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Field,Male,Thresher,Type B,Tractor Model X,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Thresher,Type A,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type A,Thresher Model Z,Falling,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Thresher,Type B,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Thresher,Type A,Tractor Model X,Overturning,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type A,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type B,Thresher Model Z,Collision,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type C,Thresher Model Z,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type A,Thresher Model Z,Entanglement,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Thresher,Type B,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type B,Harvester Model Y,Overturning,Operator Error,Fatal
+Jalpaiguri,Field,Male,Combine Harvester,Type A,Thresher Model Z,Collision,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type D,Tractor Model X,Entanglement,Operator Error,Fatal
+Nadia,Field,Female,Tractor,Type C,Thresher Model Z,Collision,Weather Conditions,Non-Fatal
+Nadia,Farm Road,Male,Thresher,Type B,Tractor Model X,Falling,Weather Conditions,Non-Fatal
+Jalpaiguri,Field,Female,Combine Harvester,Type D,Thresher Model Z,Falling,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Tractor,Type B,Harvester Model Y,Collision,Operator Error,Non-Fatal
+Jalpaiguri,Field,Female,Tractor,Type C,Tractor Model X,Collision,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type A,Thresher Model Z,Collision,Operator Error,Non-Fatal
+Nadia,Farm Road,Female,Thresher,Type C,Tractor Model X,Collision,Mechanical Failure,Fatal
+Jalpaiguri,Field,Female,Tractor,Type D,Thresher Model Z,Collision,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Male,Combine Harvester,Type A,Thresher Model Z,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Field,Male,Thresher,Type A,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type B,Harvester Model Y,Overturning,Mechanical Failure,Non-Fatal
+Nadia,Farm Road,Female,Tractor,Type C,Harvester Model Y,Overturning,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Field,Male,Combine Harvester,Type C,Tractor Model X,Overturning,Mechanical Failure,Fatal
+Nadia,Field,Male,Thresher,Type B,Thresher Model Z,Overturning,Weather Conditions,Non-Fatal
+Jalpaiguri,Farm Road,Male,Tractor,Type A,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type A,Thresher Model Z,Entanglement,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Tractor,Type C,Thresher Model Z,Falling,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type D,Harvester Model Y,Entanglement,Mechanical Failure,Non-Fatal
+South Twenty Four Parganas,Farm Road,Male,Thresher,Type D,Thresher Model Z,Falling,Operator Error,Fatal
+Jalpaiguri,Field,Male,Tractor,Type B,Thresher Model Z,Overturning,Operator Error,Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type D,Harvester Model Y,Falling,Operator Error,Non-Fatal
+Nadia,Field,Female,Combine Harvester,Type B,Tractor Model X,Entanglement,Mechanical Failure,Non-Fatal
+Nadia,Field,Female,Tractor,Type C,Thresher Model Z,Entanglement,Operator Error,Fatal
+Nadia,Farm Road,Male,Combine Harvester,Type B,Tractor Model X,Overturning,Weather Conditions,Fatal
+Jalpaiguri,Field,Female,Tractor,Type B,Harvester Model Y,Entanglement,Weather Conditions,Fatal
+South Twenty Four Parganas,Field,Female,Tractor,Type D,Tractor Model X,Overturning,Mechanical Failure,Fatal
+Jalpaiguri,Farm Road,Female,Combine Harvester,Type C,Tractor Model X,Falling,Operator Error,Non-Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type C,Harvester Model Y,Entanglement,Weather Conditions,Non-Fatal
+South Twenty Four Parganas,Farm Road,Female,Combine Harvester,Type A,Harvester Model Y,Entanglement,Mechanical Failure,Fatal
+South Twenty Four Parganas,Field,Female,Combine Harvester,Type D,Thresher Model Z,Overturning,Mechanical Failure,Fatal
