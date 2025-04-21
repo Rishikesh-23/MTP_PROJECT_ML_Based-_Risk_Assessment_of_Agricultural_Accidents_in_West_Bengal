@@ -63,7 +63,7 @@ with tab1:
             "EquipmentName": equipment,
             "CauseOfAccident": cause,
             "Reason": reason,
-            "AccidentType": acc_type,
+            
         }
         input_df = pd.DataFrame([input_data])
 
