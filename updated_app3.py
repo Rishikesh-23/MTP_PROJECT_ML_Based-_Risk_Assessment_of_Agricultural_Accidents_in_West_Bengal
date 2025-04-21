@@ -49,7 +49,7 @@ with tab1:
         cat = st.selectbox("Category", le_dict["CatDesc"].classes_)
         subcat = st.selectbox("Sub Category", le_dict["SubCatDesc"].classes_)
         equipment = st.selectbox("Equipment", le_dict["EquipmentName"].classes_)
-       
+        acc_type = st.selectbox("Accident Type", le_dict["AccidentType"].classes_)
 
     if st.button("🔎 Predict Severity"):
         # Prepare input
@@ -63,7 +63,7 @@ with tab1:
             "EquipmentName": equipment,
             "CauseOfAccident": cause,
             "Reason": reason,
-            
+            "AccidentType": acc_type,
         }
         input_df = pd.DataFrame([input_data])
 
