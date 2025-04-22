@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from datetime import datetime
 
-# Load model and label encoders
+# Load model and label encoders.
 model, le_dict = joblib.load("trained_model.pkl")
 
 # App Config
