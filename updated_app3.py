@@ -135,7 +135,7 @@ with tab2:
     st.subheader("📚 AIS Levels and Severity Information")
     info_df = pd.DataFrame({
         "AIS Level": ["AIS-1", "AIS-2", "AIS-3", "AIS-4", "AIS-5", "AIS-6"],
-        "Classification": ["Moderate"
+        "Classification": [
         "Minor", "Moderate", "Serious", "Severe", "Critical", "Unsurvivable"],
         "Description": [
             "Get well in primary treatment", "Small injury", "Long term disability",
