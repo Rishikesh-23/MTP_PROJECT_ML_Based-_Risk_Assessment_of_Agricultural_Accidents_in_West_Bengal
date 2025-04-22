@@ -21,12 +21,12 @@ if "history" not in st.session_state:
 
 # Define AIS Info dictionary
 ais_info = {
-    1: ("Moderate", "Get well in primary treatment", "#4CAF50", "Non-Fatal"),
+    1: ("Minor", "Get well in primary treatment", "#4CAF50", "Non-Fatal"),
     2: ("Moderate", "Small injury", "#8BC34A", "Non-Fatal"),
     3: ("Serious", "Long term disability", "#FFC107", "Non-Fatal"),
-    4: ("Serious", "Permanent damage in body parts", "#FF9800", "Non-Fatal"),
-    5: ("Severe", "Exterminate of body parts", "#F44336", "Fatal"),
-    6: ("Severe", "Death of victims", "#D32F2F", "Fatal"),
+    4: ("Severe", "Permanent damage in body parts", "#FF9800", "Non-Fatal"),
+    5: ("Critical", "Exterminate of body parts", "#F44336", "Non-Fatal"),
+    6: ("Unsurvivable", "Death of victims", "#D32F2F", "Fatal"),
 }
 
 # Tabs
@@ -69,7 +69,8 @@ with tab1:
 
         # Encode
         for col in input_df.columns:
-            input_df[col] = le_dict[col].transform(input_df[col])
+            input_df
+            [col] = le_dict[col].transform(input_df[col])
 
         # Predict
         prediction = model.predict(input_df)[0]
@@ -134,12 +135,13 @@ with tab2:
     st.subheader("📚 AIS Levels and Severity Information")
     info_df = pd.DataFrame({
         "AIS Level": ["AIS-1", "AIS-2", "AIS-3", "AIS-4", "AIS-5", "AIS-6"],
-        "Classification": ["Moderate", "Moderate", "Serious", "Serious", "Severe", "Severe"],
+        "Classification": ["Moderate"
+        "Minor", "Moderate", "Serious", "Severe", "Critical", "Unsurvivable"],
         "Description": [
             "Get well in primary treatment", "Small injury", "Long term disability",
             "Permanent damage in body parts", "Exterminate of body parts", "Death of victims"
         ],
-        "Accident Category": ["Non-Fatal"] * 4 + ["Fatal"] * 2
+        "Accident Category": ["Non-Fatal"] * 5 + ["Fatal"] * 1
     })
     st.table(info_df)
 
