@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from datetime import datetime
 
-# Load model and label encoders.
+# Load model and label encoders
 model, le_dict = joblib.load("trained_model.pkl")
 
 # App Config
@@ -49,7 +49,8 @@ with tab1:
         cat = st.selectbox("Category", le_dict["CatDesc"].classes_)
         subcat = st.selectbox("Sub Category", le_dict["SubCatDesc"].classes_)
         equipment = st.selectbox("Equipment", le_dict["EquipmentName"].classes_)
-        
+        acc_type = st.selectbox("Accident Type", le_dict["AccidentType"].classes_)
+
     if st.button("🔎 Predict Severity"):
         # Prepare input
         input_data = {
@@ -62,13 +63,13 @@ with tab1:
             "EquipmentName": equipment,
             "CauseOfAccident": cause,
             "Reason": reason,
+            "AccidentType": acc_type,
         }
         input_df = pd.DataFrame([input_data])
 
-        # Encode.
+        # Encode
         for col in input_df.columns:
-            input_df
-            [col] = le_dict[col].transform(input_df[col])
+            input_df[col] = le_dict[col].transform(input_df[col])
 
         # Predict
         prediction = model.predict(input_df)[0]
@@ -133,8 +134,7 @@ with tab2:
     st.subheader("📚 AIS Levels and Severity Information")
     info_df = pd.DataFrame({
         "AIS Level": ["AIS-1", "AIS-2", "AIS-3", "AIS-4", "AIS-5", "AIS-6"],
-        "Classification": [
-        "Minor", "Moderate", "Serious", "Severe", "Critical", "Unsurvivable"],
+        "Classification": ["Minor", "Moderate", "Serious", "Severe", "Critical", "Unsurvivable"],
         "Description": [
             "Get well in primary treatment", "Small injury", "Long term disability",
             "Permanent damage in body parts", "Exterminate of body parts", "Death of victims"
@@ -159,3 +159,4 @@ with tab3:
 
     st.markdown("---")
     st.markdown("Built with ❤️ by Rishikesh")
+
