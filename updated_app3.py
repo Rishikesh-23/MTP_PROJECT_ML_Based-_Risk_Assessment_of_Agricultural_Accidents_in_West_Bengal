@@ -67,7 +67,7 @@ with tab1:
         }
         input_df = pd.DataFrame([input_data])
 
-        # Encode
+        # Encode.
         for col in input_df.columns:
             input_df
             [col] = le_dict[col].transform(input_df[col])
